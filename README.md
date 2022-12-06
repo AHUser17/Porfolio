@@ -13,6 +13,7 @@ Casos de prueba, clases de equivalencia, reporte de incidentes, pruebas de regre
 * Testlink
 * Jira
 * MantisBT
+* Microsoft SQL Server Management Studio
 
 ## Libros
 * Introducción a las Pruebas de Sistemas de Información - Federico Toledo
